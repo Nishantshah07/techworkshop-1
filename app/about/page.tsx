@@ -1,6 +1,6 @@
 import Greeting from "@/components/Greeting"
 
-const AboutPage = () => (){
+const AboutPage = () => {
     return(
         <section>
             <h1>About Page</h1>
